@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Screening and Matching Assistant",
+  "description": "An intelligent full-stack assessment platform for recruiters to evaluate candidate resumes against formal job descriptions using Gemini 3.5, displaying score breakdowns, skill gaps, and experience fit profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
